@@ -11,7 +11,7 @@ http://themodern.pe.kr/capstone
 
 
 ![1](https://user-images.githubusercontent.com/75834395/103170484-ee41b300-4887-11eb-96c8-6d48e5090940.jpg)
-![2](https://user-images.githubusercontent.com/75834395/103170485-eeda4980-4887-11eb-8f49-d23da63e2f19.jpg)
+![2](https://user-images.githubusercontent.com/75834395/103170567-7a53da80-4888-11eb-98d6-7073e07ea1d0.jpg)
 ![3](https://user-images.githubusercontent.com/75834395/103170486-ef72e000-4887-11eb-8030-2f899067d1e0.jpg)
 ![4](https://user-images.githubusercontent.com/75834395/103170487-f00b7680-4887-11eb-8a84-9a8cbcfd2101.jpg)
 ![5](https://user-images.githubusercontent.com/75834395/103170488-f00b7680-4887-11eb-8ba1-a8ecb281cd10.jpg)
