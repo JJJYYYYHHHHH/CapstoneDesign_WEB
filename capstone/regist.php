@@ -112,7 +112,7 @@
   <hr>
   <button class="btn btn-lg btn-primary btn-block" type="submit" style="margin-top: 30px;">회원가입</button>
   <button class="btn btn-lg btn-primary btn-block" type="button"><a href="index.php" style="color: white;">취소</a></button>
-  <p class="mt-5 mb-3 text-muted">&copy; 김준호 이재완 진영훈</p>
+  <p class="mt-5 mb-3 text-muted">&copy; YeongHun Jin</p>
 </form>
 </body>
 </html>
