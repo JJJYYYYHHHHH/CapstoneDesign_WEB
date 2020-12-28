@@ -24,8 +24,8 @@ http://themodern.pe.kr/capstone (본 페이지는 모바일에 최적화 되어�
 
 ### 4. 구현 화면
 ------------
-![1](https://user-images.githubusercontent.com/75834395/103170910-534ad800-488b-11eb-9001-2e11a7f2a929.jpg)
+![뉴1](https://user-images.githubusercontent.com/75834395/103206178-987c1200-493e-11eb-98a7-e3fd5431534a.jpg)
 - 은 접속 시 처음 출력되는 페이지이다. 로그인 실패 시 경고 창을 띄우고, 성공 시 메인 화면으로 넘어간다.
-![2](https://user-images.githubusercontent.com/75834395/103170796-7f198e00-488a-11eb-9ffd-a6c5d803c709.jpg)
+![뉴2](https://user-images.githubusercontent.com/75834395/103206179-99ad3f00-493e-11eb-9cd9-f9dffc4be134.jpg)
 ![3](https://user-images.githubusercontent.com/75834395/103170797-7fb22480-488a-11eb-81e3-737ed45e8ae0.jpg)
 ![4](https://user-images.githubusercontent.com/75834395/103170798-7fb22480-488a-11eb-88f1-03e2775c3eb1.jpg)
