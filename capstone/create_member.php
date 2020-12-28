@@ -24,12 +24,8 @@
             <script type='text/javascript'>alert("ID가 중복입니다. 다른ID를 사용하세요")</script>
             <script type='text/javascript'>window.location.href='./regist.php'</script>
             <?php
-            // echo "This id is already being used";
-            // echo "<a href=regist.php>Back to page</a>";
-            // header("location:./regist.php");
-            // exit(); 이거는 원래 왜쓰는거징 ???
+
         }
-        // 이걸로 비밀번호 확인, id중복확인 만들어야징
 
         $query = "INSERT INTO capstone_member VALUES('$id','$pwd','$nname','$addr')";
         $execute = mq($query);
