@@ -25,7 +25,10 @@ http://themodern.pe.kr/capstone (본 페이지는 모바일에 최적화 되어�
 ### 4. 구현 화면
 ------------
 ![뉴1](https://user-images.githubusercontent.com/75834395/103206178-987c1200-493e-11eb-98a7-e3fd5431534a.jpg)
-- 은 접속 시 처음 출력되는 페이지이다. 로그인 실패 시 경고 창을 띄우고, 성공 시 메인 화면으로 넘어간다.
+- <로그인 화면>은 접속 시 처음 출력되는 페이지이다. 로그인 실패 시 경고 창을 띄우고, 성공 시 메인 화면으로 넘어간다.
+- <회원가입>에서 회원가입을 할 수 있다. 정보를 입력받아 DB에 저장한다.
+- <메인화면>에서 로그인된 회원의 지역을 기반으로 최근 등록된 상품을 보여준다.
+- <네비게이션>을 통해 홈, 상품등록, 채팅, 내정보, 상품 검색을 할 수 있다. 상품검색은 상품명으로 검색할 수 . 
 ![뉴2](https://user-images.githubusercontent.com/75834395/103206179-99ad3f00-493e-11eb-9cd9-f9dffc4be134.jpg)
 ![3](https://user-images.githubusercontent.com/75834395/103170797-7fb22480-488a-11eb-81e3-737ed45e8ae0.jpg)
 ![4](https://user-images.githubusercontent.com/75834395/103170798-7fb22480-488a-11eb-88f1-03e2775c3eb1.jpg)
